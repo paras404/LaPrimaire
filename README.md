@@ -1,6 +1,7 @@
 [![OpenCollective](https://opencollective.com/laprimaire/badge/backers.svg)](https://opencollective.com/laprimaire#support)
 
 ![democratech logo](https://s3.eu-central-1.amazonaws.com/laprimaire/laprimaire-small-logo.png)
+---Check out this amazing static website---
 # Website
 
 This is the code of [LaPrimaire.org website](https://laprimaire.org).
